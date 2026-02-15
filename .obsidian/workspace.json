@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ea597a66d5ca06bc",
+        "id": "d87ab426e3bf3200",
         "type": "tabs",
         "children": [
           {
-            "id": "4998a54bfa022960",
+            "id": "7d9f8f049da9521c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "CLAUDE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6ce4e0a0bf778c84",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8584fadb58652599",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -69,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"description\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 335.5
   },
   "right": {
     "id": "d2acae9f589415a5",
@@ -172,21 +156,61 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "1-Areas/retirement-seminar-self-study/CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of CLAUDE"
+            }
+          },
+          {
+            "id": "bc52dc1116eed4a7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "f3e0da05363d13da",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "664a4c8d78c285ff",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "0fd4181f9aca3775",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +220,67 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4998a54bfa022960",
+  "active": "47c17bb310d72780",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Untitled.md",
+    "CLAUDE.md",
+    "1-Areas/retirement-seminar-self-study/CLAUDE.md",
+    "Untitled Kanban.md",
+    "펄.md",
+    "000_PARA/Resource/008_eduDoc/Obsidian/Obsidian 소개와 설치.md",
+    "1-Areas/retirement-seminar-self-study/회차별자료/1회차_오리엔테이션_환경설정.md",
+    "000_PARA/Resource/008_eduDoc/Obsidian",
+    "000_PARA/Resource/008_eduDoc",
+    "000_PARA/Resource",
+    "000_PARA",
+    "1-Areas/retirement-seminar-self-study/회차별자료/4회차_24시간_일하는_나의_분신_만들기.md",
+    "1-Areas/retirement-seminar-self-study/회차별자료/2회차_프롬프트_엔지니어링_기초.md",
+    "녹음테스트.md",
+    "Recording 20260215195459.m4a",
+    "1-Areas/retirement-seminar-self-study/퇴직준비세미나_자율학습_가이드.md",
+    "3-Archives/Claude.md",
+    "2026-02-15.md",
+    "3-Archives/Welcome.md",
+    "2-Resources/Pasted image 20260214235616.png",
+    "2-Resources/학습.md",
+    "2-Resources/온톨로지.md",
+    "2-Resources/모르는 정보.md",
+    "2-Resources/그림 프롬프트.md",
+    "1-Areas/전략논의.md",
+    "retirement-seminar-self-study/CLAUDE.md",
+    "0-Projects/AI담수/고려사항.md",
+    "0-Projects/AI담수/연차별연구내용_KIMM_AI에이전트_추가_A.md",
+    "0-Projects/AI담수/연차별연구내용_KIMM_최종_V2(AI에이전트반영).md",
+    "0-Projects/AI담수/연차별연구내용_KIMM_AI에이전트_추가_B.md",
+    "0-Projects/AI담수/create_ppt.py",
+    "0-Projects/AI담수/사업계획서 작성/AI_Agent_다이어그램_편집용.pptx",
+    "0-Projects/AI담수/사업계획서 작성/전체_체계도_컨셉.pptx",
+    "0-Projects/AI담수/사업계획서 작성/담수 시스템 개념도_V4.pptx",
+    "0-Projects/AI담수/사업계획서 작성/26.02.13-AI담수화_연구개발계획서 v3.hwp",
+    "0-Projects/AI담수/사업계획서 작성/추진체계도.jpg",
+    "0-Projects/AI담수/사업계획서 작성/solar_desalination_ontology.canvas",
+    "0-Projects/AI담수/사업계획서 작성/연차별연구내용_KIMM_최종_V2(AI에이전트반영).md",
+    "0-Projects/AI담수/사업계획서 작성/연차별연구내용_KIMM_AI에이전트_추가_B.md",
+    "0-Projects/honeypot-main/honeypot-main/test_output/figures/test_slide_01.png",
+    "Pasted image 20260214235616.png",
+    "honeypot-main/honeypot-main/test_output/figures/test_slide_01.png",
+    "AI담수/사업계획서 작성/solar_desalination_ontology.canvas",
+    "Pasted image 20260214235436.png",
+    "AI담수/사업계획서 작성/추진체계도.jpg",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "ontology.canvas",
+    "AI담수/가람/추진체계도.jpg"
   ]
 }

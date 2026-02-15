@@ -1,0 +1,246 @@
+{
+  "timestamp": "2026-02-15T10:00:00+09:00",
+  "data_date": "2026-02-14",
+  "skill_used": "web-search-verifier",
+  "indices": [
+    {
+      "name": "S&P 500",
+      "value": 6836.17,
+      "unit": "pt",
+      "change_from_prev": "+0.05%",
+      "previous_close": 6832.76,
+      "original_text": "S&P 500 (^GSPC) regularMarketPrice: 6836.17, previousClose: 6832.76 - Yahoo Finance API",
+      "sources": [
+        {
+          "name": "Yahoo Finance API",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC",
+          "observed_value": 6836.17,
+          "original_text": "regularMarketPrice: 6836.17, previousClose: 6832.76",
+          "tier": 2
+        },
+        {
+          "name": "Yahoo Finance API (5d range)",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EGSPC?range=5d&interval=1d",
+          "observed_value": 6836.17,
+          "original_text": "Most Recent Price: 6836.17 USD. All Closing Prices: 6964.82, 6941.81, 6941.47, 6832.76, 6836.17",
+          "tier": 2
+        },
+        {
+          "name": "Stooq",
+          "url": "https://stooq.com/q/d/l/?s=%5Espx&d1=20260213&d2=20260215&i=d",
+          "observed_value": 6836.17,
+          "original_text": "February 13, 2026: Closing Price: 6836.17, Volume: 3,427,364,729",
+          "tier": 2
+        }
+      ],
+      "verified": true,
+      "variance": "0.00%"
+    },
+    {
+      "name": "NASDAQ",
+      "value": 22546.67,
+      "unit": "pt",
+      "change_from_prev": "-0.22%",
+      "previous_close": 22597.148,
+      "original_text": "NASDAQ Composite (^IXIC) regularMarketPrice: 22546.67, previousClose: 22597.148 - Yahoo Finance API",
+      "sources": [
+        {
+          "name": "Yahoo Finance API",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC",
+          "observed_value": 22546.67,
+          "original_text": "regularMarketPrice: 22546.67 USD, previousClose: 22597.148 USD",
+          "tier": 2
+        },
+        {
+          "name": "Yahoo Finance API (5d range)",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EIXIC?range=5d&interval=1d",
+          "observed_value": 22546.67,
+          "original_text": "Most Recent Price: 22,546.67. All Closing Prices: 23,238.67, 23,102.47, 23,066.47, 22,597.15, 22,546.67",
+          "tier": 2
+        },
+        {
+          "name": "Stooq",
+          "url": "https://stooq.com/q/d/l/?s=%5Endq&d1=20260213&d2=20260215&i=d",
+          "observed_value": 22546.67,
+          "original_text": "February 13, 2026: Closing Price: 22,546.67, Trading Volume: 5,063,576,483",
+          "tier": 2
+        }
+      ],
+      "verified": true,
+      "variance": "0.00%"
+    },
+    {
+      "name": "KOSPI",
+      "value": 5507.01,
+      "unit": "pt",
+      "change_from_prev": "-0.28%",
+      "previous_close": 5522.27,
+      "original_text": "KOSPI (^KS11) regularMarketPrice: 5507.01, previousClose: 5522.27 - Yahoo Finance API",
+      "sources": [
+        {
+          "name": "Yahoo Finance API",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11",
+          "observed_value": 5507.01,
+          "original_text": "regularMarketPrice: 5507.01 KRW, previousClose: 5522.27 KRW",
+          "tier": 2
+        },
+        {
+          "name": "Yahoo Finance API (5d range)",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EKS11?range=5d&interval=1d",
+          "observed_value": 5507.01,
+          "original_text": "Regular Market Price (current): 5507.01. Closing Prices: 5298.04, 5301.69, 5354.49, 5522.27, 5507.01",
+          "tier": 2
+        },
+        {
+          "name": "Stooq",
+          "url": "https://stooq.com/q/d/l/?s=%5Ekospi&d1=20260213&d2=20260215&i=d",
+          "observed_value": 5507.01,
+          "original_text": "February 13, 2026: 5507.01, High: 5583.74, Low: 5480.92",
+          "tier": 2
+        }
+      ],
+      "verified": true,
+      "variance": "0.00%"
+    },
+    {
+      "name": "KOSDAQ",
+      "value": 1106.08,
+      "unit": "pt",
+      "change_from_prev": "-1.77%",
+      "previous_close": 1125.99,
+      "original_text": "KOSDAQ (^KQ11) regularMarketPrice: 1106.08, previousClose: 1125.99 - Yahoo Finance API",
+      "sources": [
+        {
+          "name": "Yahoo Finance API",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EKQ11",
+          "observed_value": 1106.08,
+          "original_text": "regularMarketPrice: 1106.08 KRW, previousClose: 1125.99 KRW",
+          "tier": 2
+        },
+        {
+          "name": "Yahoo Finance API (5d range)",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/%5EKQ11?range=5d&interval=1d",
+          "observed_value": 1106.08,
+          "original_text": "Regular Market Price: 1106.08 KRW. Closing Prices: 1127.55, 1115.20, 1114.87, 1125.99, 1106.08",
+          "tier": 2
+        }
+      ],
+      "verified": true,
+      "variance": "0.00%",
+      "note": "Stooq에서 KOSDAQ 데이터 미제공. Yahoo Finance API 내 복수 쿼리 교차 검증(range=1d, range=5d, interval=1m 모두 동일값 반환)으로 보완."
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1443.3,
+      "unit": "KRW",
+      "original_text": "USD/KRW regularMarketPrice: 1443.3 - Yahoo Finance API",
+      "sources": [
+        {
+          "name": "Yahoo Finance API",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/KRW%3DX",
+          "observed_value": 1443.3,
+          "original_text": "regularMarketPrice for USD/KRW is 1443.3",
+          "tier": 2
+        },
+        {
+          "name": "Fawaz Ahmed Currency API",
+          "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/usd.json",
+          "observed_value": 1440.80,
+          "original_text": "date: 2026-02-14, krw: 1440.80469694",
+          "tier": 3
+        },
+        {
+          "name": "Stooq",
+          "url": "https://stooq.com/q/d/l/?s=usdkrw&d1=20260213&d2=20260215&i=d",
+          "observed_value": 1443.94,
+          "original_text": "February 13, 2026: Open: 1442.15, High: 1445.07, Low: 1440.11, Close: 1443.94",
+          "tier": 2
+        }
+      ],
+      "verified": true,
+      "variance": "0.22%"
+    },
+    {
+      "name": "EUR/KRW",
+      "value": 1709.2,
+      "unit": "KRW",
+      "original_text": "EUR/KRW regularMarketPrice: 1709.2 - Yahoo Finance API",
+      "sources": [
+        {
+          "name": "Yahoo Finance API",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/EURKRW%3DX",
+          "observed_value": 1709.2,
+          "original_text": "regularMarketPrice for EUR/KRW is 1709.2",
+          "tier": 2
+        },
+        {
+          "name": "Fawaz Ahmed Currency API (EUR base)",
+          "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/eur.json",
+          "observed_value": 1709.30,
+          "original_text": "date: 2026-02-14, KRW to EUR exchange rate: 1,709.29777407",
+          "tier": 3
+        },
+        {
+          "name": "Stooq",
+          "url": "https://stooq.com/q/d/l/?s=eurkrw&d1=20260213&d2=20260215&i=d",
+          "observed_value": 1712.38,
+          "original_text": "2026-02-13: Close: 1712.38",
+          "tier": 2
+        }
+      ],
+      "verified": true,
+      "variance": "0.19%"
+    },
+    {
+      "name": "JPY/KRW",
+      "value": 9.413,
+      "unit": "KRW (per 1 JPY)",
+      "original_text": "JPY/KRW regularMarketPrice: 9.413 - Yahoo Finance API",
+      "sources": [
+        {
+          "name": "Yahoo Finance API",
+          "url": "https://query1.finance.yahoo.com/v8/finance/chart/JPYKRW%3DX",
+          "observed_value": 9.413,
+          "original_text": "regularMarketPrice for JPY/KRW is 9.413",
+          "tier": 2
+        },
+        {
+          "name": "Fawaz Ahmed Currency API",
+          "url": "https://cdn.jsdelivr.net/npm/@fawazahmed0/currency-api@latest/v1/currencies/jpy.json",
+          "observed_value": 9.4335,
+          "original_text": "date: 2026-02-14, krw: 9.4335407 (per 1 JPY)",
+          "tier": 3
+        },
+        {
+          "name": "Stooq",
+          "url": "https://stooq.com/q/d/l/?s=jpykrw&d1=20260213&d2=20260215&i=d",
+          "observed_value": 9.4175,
+          "original_text": "February 13, 2026: Open: 9.43528, High: 9.45145, Low: 9.40898, Close: 9.41748",
+          "tier": 2
+        }
+      ],
+      "verified": true,
+      "variance": "0.22%"
+    }
+  ],
+  "status": "SUCCESS",
+  "failed_indices": [],
+  "verification_summary": {
+    "total_indices": 7,
+    "verified": 7,
+    "failed": 0,
+    "sources_used": [
+      "Yahoo Finance API (query1.finance.yahoo.com)",
+      "Stooq (stooq.com)",
+      "Fawaz Ahmed Currency API (cdn.jsdelivr.net)"
+    ],
+    "max_variance": "0.22%",
+    "all_within_threshold": true,
+    "threshold": "1%",
+    "notes": [
+      "KOSDAQ: Stooq 미제공으로 Yahoo Finance API 복수 쿼리 교차검증으로 보완 (3회 일치 확인)",
+      "주식 지수 데이터는 2026-02-13 (금) 종가 기준 (2/14 토요일 휴장)",
+      "환율 데이터는 2026-02-14 기준"
+    ]
+  }
+}

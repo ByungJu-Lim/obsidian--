@@ -1,0 +1,18 @@
+# Binary & large files
+*.zip
+*.hwp
+*.pptx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Obsidian plugins & smart-connections data
+.smart-env/
+.obsidian/plugins/
+
+# System files
+nul
+Thumbs.db
+.DS_Store
